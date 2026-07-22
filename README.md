@@ -1,4 +1,4 @@
-# uplift_batch3_learning_journal_1 - Python for Data and AI
+Python for Data and AI
 ## Part 1: Core Requirements
 1. Q1
 2. Q2
